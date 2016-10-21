@@ -1,3 +1,5 @@
 # hello-world
 
-Yilin Zhang here!
+Hi, humans!
+
+Yilin Zhang here! I like C++ programming language.
