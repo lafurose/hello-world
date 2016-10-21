@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi, humans!
+
+Yilin Zhang here! I like C++ programming language.
